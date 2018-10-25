@@ -14,12 +14,6 @@ This create a package.json
 This create all the nodes modules neccesary to run express server
 
 <h2>3. create an app.js</h2>
-y aqui damos de alta el server
+and the we put the server listen port and the diferent doutes
 
-const express = require('express');
-const app = express();
-
-app.listen(3003, () => {
-console.log("SERVER UP PPAPU");
-})
 
