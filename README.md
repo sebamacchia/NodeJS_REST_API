@@ -25,6 +25,9 @@ This create all the nodes modules neccesary to run express server
 
 <h2>3. install npm i nodemon</h2>
 
-<h2>4. create an app.js</h2>
+<h2>4. install npm i morgan</h2>
+to onotor what is going on in the console
+
+<h2>5. create an app.js</h2>
 and the we put the server listen port and the diferent doutes
 
