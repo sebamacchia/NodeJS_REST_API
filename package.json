@@ -1,7 +1,7 @@
 {
   "name": "nodejs_rest_api",
   "version": "1.0.0",
-  "description": "HOLA <h1>THIS ARE THE STEPS TO CREATE A NODE JS DEST API</h1>",
+  "description": "HOLA <br> <br> <img src=\"rdmimg/01.png\" alt=\"\"> <img src=\"rdmimg/02.png\" alt=\"\"> <img src=\"\" alt=\"\"> <h1>THIS ARE THE STEPS TO CREATE A NODE JS DEST API</h1>",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sebamacchia/NodeJS_REST_API/issues"
   },
-  "homepage": "https://github.com/sebamacchia/NodeJS_REST_API#readme"
+  "homepage": "https://github.com/sebamacchia/NodeJS_REST_API#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
