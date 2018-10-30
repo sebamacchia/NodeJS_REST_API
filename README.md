@@ -29,5 +29,22 @@ This create all the nodes modules neccesary to run express server
 to onotor what is going on in the console
 
 <h2>5. create an app.js</h2>
-and the we put the server listen port and the diferent doutes
+and the we put the server listen port and the diferent routes
+
+<h2>6. in app.js create de requiers and the server and routes</h2>
+
+<h2>7. create a public folder</h2>
+
+<h2>8. Hacer el routing</h2>
+Para que sea facil de mantener, y sobre todo cuando se trabaja en equipo
+va a ser mas facil de entender si refactoresmos el codigo y creamos router
+Creando una variable Router y creando varios archivos por cada ruta.
+Entonces se crea e=un folder routes y ahi se ponen los archivos js
+
+<h2>9.Writte with Templates </h2>
+Tambien se puede utilizar un motor de plantillas, o mas conocido como template
+Son como una mejora al html porque se pueden hacer condicionales, loops, etc.
+Hacen algo parecido a PHP.
+
+
 
