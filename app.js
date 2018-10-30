@@ -8,7 +8,7 @@ const bodyParser = require('body-parser');
 //USES
 app.use(bodyParser.urlencoded({extended:false}));
 app.use(express.static('./public'));
-app.use(morgan('short'));
+app.use(morgan('short')); 
 
 //ROUTE FOR ROOT
 app.get('/', (req,res) => {
